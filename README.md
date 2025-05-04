@@ -134,29 +134,9 @@ I'm an <a href="https://www.alxafrica.com/" style="color: #03dac6;">ALX Software
 
 
 
-<div style="background-color: #CAF0F8; padding: 2rem; border-radius: 8px; margin-top: 1.5rem;">
-  <div align="center" style="background-color: #121212; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem;">
-    <h3 style="color: #FADA78; margin-top: 0;">Connect With Me</h3>
-    <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank" style="margin: 0 0.5rem;">
-      <img src="https://img.shields.io/badge/-LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=FADA78&labelColor=121212"/>
-    </a>
-    <a href="mailto:YOUR_EMAIL" style="margin: 0 0.5rem;">
-      <img src="https://img.shields.io/badge/-Email-121212?style=for-the-badge&logo=gmail&logoColor=6EE7B7&labelColor=121212"/>
-    </a>
-    <a href="https://twitter.com/YOUR_HANDLE" style="margin: 0 0.5rem;">
-      <img src="https://img.shields.io/badge/-Twitter-121212?style=for-the-badge&logo=twitter&logoColor=CAF0F8&labelColor=121212"/>
-    </a>
-  </div>
 
-  <div style="background-color: #121212; padding: 1.5rem; border-radius: 8px; color: #CAF0F8; border-left: 4px solid #6EE7B7;">
-    <p style="margin: 0;">
-      <span style="color: #FADA78;">Currently open to:</span> Collaborations on African tech solutions, mentorship opportunities, and impactful open-source projects.
-    </p>
-    <p style="margin: 1rem 0 0 0;">
-      <span style="color: #6EE7B7;">Best way to reach me:</span> <a href="mailto:YOUR_EMAIL" style="color: #FADA78; text-decoration: none;">YOUR_EMAIL</a>
-    </p>
-  </div>
-</div>
+
+
 
 
 
