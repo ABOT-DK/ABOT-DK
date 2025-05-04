@@ -1,15 +1,21 @@
-David Kwabla Abotsi is a passionate clinical laboratory scientist with a strong interest in 
-data science and data solutions. He specializes in conducting diagnostic tests, analyzing specimens, 
-and providing accurate results for patient care and disease diagnosis. Beyond his laboratory work
-he is deeply committed to leveraging data science and web development to tackle real-world challenges. 
-With expertise in data analysis, from preprocessing raw data to developing 
-intricate machine learning models,David excels at deriving actionable insights and forecasting trends. 
-His proficiency extends to building intuitive and responsive web applications that enhance user
-experiences and streamline operations. 
-Motivated by a relentless pursuit of effective solutions, David embraces emerging technologies 
-to pioneer innovative approaches in data science and web development. His dedication to continuous 
-learning and adaptation ensures he remains at the forefront of solving complex problems and driving 
-impactful results across these dynamic fields.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+Solutions+That+Empower+Africa;ALX+Software+Engineering+Scholar;Community-Focused+Developer;Turning+Problems+Into+Opportunities" alt="Animated header" />
+</div>
+
+---
+
+### 🔥 **About Me**
+```markdown
+<h3 align="left">🌍 Mission-Driven Developer</h3>
+
+I'm an [ALX Software Engineering](https://www.alxafrica.com/) scholar passionate about **building digital solutions for Africa's most pressing challenges**. My journey combines technical excellence with community impact - because technology should serve people first.
+
+- 🔭 Currently working on: [Your Current Project]
+- 🌱 Currently learning: [Current Learning Focus]
+- 👯 Looking to collaborate on: Open-source projects solving African challenges
+- 💬 Ask me about: Full-stack development, community tech solutions
+- ⚡ Fun fact: [Personalize with an interesting fact]
+
 <!---
 ABOT-DK/ABOT-DK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
