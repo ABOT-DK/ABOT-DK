@@ -4,17 +4,18 @@
 
 ---
 
-### 🔥 **About Me**
-```markdown
+# 🔥  **About Me**
+
 <h3 align="left">🌍 Mission-Driven Developer</h3>
 
-I'm an [ALX Software Engineering](https://www.alxafrica.com/) scholar passionate about **building digital solutions for Africa's most pressing challenges**. My journey combines technical excellence with community impact - because technology should serve people first.
+I'm an ALX Software Engineering (https://www.alxafrica.com/) scholar passionate about **building digital solutions for Africa's most pressing challenges**. My journey combines technical excellence with community impact - because technology should serve people first.
 
 - 🔭 Currently working on: [Your Current Project]
 - 🌱 Currently learning: [Current Learning Focus]
 - 👯 Looking to collaborate on: Open-source projects solving African challenges
 - 💬 Ask me about: Full-stack development, community tech solutions
 - ⚡ Fun fact: [Personalize with an interesting fact]
+
 
 <!---
 ABOT-DK/ABOT-DK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
