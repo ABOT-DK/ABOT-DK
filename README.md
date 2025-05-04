@@ -11,45 +11,12 @@ I'm an ALX Software Engineering scholar passionate about **building digital solu
 
 ---
 
-
-
-
-
-
-
-
-
-
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **House Pricing Prediction** | Solving [specific African challenge] | ![Python](https://img.shields.io/badge/-Python-121212?style=flat-square&logo=python&logoColor=CAF0F8) ![Django](https://img.shields.io/badge/-Django-121212?style=flat-square&logo=django&logoColor=CAF0F8) |
-| **[Project Name]** | Empowering [specific community] through tech | ![React](https://img.shields.io/badge/-React-121212?style=flat-square&logo=react&logoColor=CAF0F8) ![Node.js](https://img.shields.io/badge/-Node.js-121212?style=flat-square&logo=node.js&logoColor=CAF0F8) |
-| **[Project Name]** | Open-source tool for African developers | ![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=flat-square&logo=mongodb&logoColor=CAF0F8) ![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=flat-square&logo=javascript&logoColor=CAF0F8) |
+| **House Pricing Prediction** | Predicting house prices based on house features  | ![Python](https://img.shields.io/badge/-Python-121212?style=flat-square&logo=python&logoColor=CAF0F8) ![Django](https://img.shields.io/badge/-Django-121212?style=flat-square&logo=django&logoColor=CAF0F8) |
+| **Customer Segregation** | Clustering customers based on purchase habits with KMeans | ![React](https://img.shields.io/badge/-React-121212?style=flat-square&logo=react&logoColor=CAF0F8) ![Node.js](https://img.shields.io/badge/-Node.js-121212?style=flat-square&logo=node.js&logoColor=CAF0F8) |
+| **Animal Classification** | Building SVG models to classify cats from dogs | ![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=flat-square&logo=mongodb&logoColor=CAF0F8) ![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=flat-square&logo=javascript&logoColor=CAF0F8) |
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
