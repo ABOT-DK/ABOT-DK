@@ -21,15 +21,11 @@ I'm an ALX Software Engineering scholar passionate about **building digital solu
 
 
 
-
-
-
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **House Pricing Prediction** | Solving [specific African challenge] | ![Python](https://img.shields.io/badge/-Python-121212?style=flat-square&logo=python&logoColor=03dac6) ![Django](https://img.shields.io/badge/-Django-121212?style=flat-square&logo=django&logoColor=03dac6) |
-| **[Project Name]** | Empowering [specific community] through tech | ![React](https://img.shields.io/badge/-React-121212?style=flat-square&logo=react&logoColor=03dac6) ![Node.js](https://img.shields.io/badge/-Node.js-121212?style=flat-square&logo=node.js&logoColor=03dac6) |
-| **[Project Name]** | Open-source tool for African developers | ![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=flat-square&logo=mongodb&logoColor=03dac6) ![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=flat-square&logo=javascript&logoColor=03dac6) |
+| **House Pricing Prediction** | Solving [specific African challenge] | ![Python](https://img.shields.io/badge/-Python-121212?style=flat-square&logo=python&logoColor=CAF0F8) ![Django](https://img.shields.io/badge/-Django-121212?style=flat-square&logo=django&logoColor=CAF0F8) |
+| **[Project Name]** | Empowering [specific community] through tech | ![React](https://img.shields.io/badge/-React-121212?style=flat-square&logo=react&logoColor=CAF0F8) ![Node.js](https://img.shields.io/badge/-Node.js-121212?style=flat-square&logo=node.js&logoColor=CAF0F8) |
+| **[Project Name]** | Open-source tool for African developers | ![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=flat-square&logo=mongodb&logoColor=CAF0F8) ![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=flat-square&logo=javascript&logoColor=CAF0F8) |
 </div>
 
 
