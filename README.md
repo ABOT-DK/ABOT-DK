@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+Solutions+That+Empower+Africa;ALX+Software+Engineering+Scholar;Community-Focused+Developer;Turning+Problems+Into+Opportunities" alt="Animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=color=03dac6&center=true&vCenter=true&width=600&lines=Building+Solutions+That+Empower+Africa;ALX+Software+Engineering+Scholar;Community-Focused+Developer;Turning+Problems+Into+Opportunities" alt="Animated header" />
 </div>
 
 ---
@@ -47,7 +47,37 @@ I'm an ALX Software Engineering (https://www.alxafrica.com/) scholar passionate 
 | **[Project Name]** | Solving [specific African challenge] | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) |
 | **[Project Name]** | Empowering [specific community] through tech | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) |
 | **[Project Name]** | Open-source tool for African developers | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) |
-<!---
-ABOT-DK/ABOT-DK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+
+
+<div style="background-color: #121212; padding: 1.5rem; border-radius: 8px; color: #edeced;">
+<h3 align="left" style="color: #03dac6;">🛠️ My Toolbox</h3>
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-121212?style=flat-square&logo=html5&logoColor=03dac6)
+![CSS3](https://img.shields.io/badge/-CSS3-121212?style=flat-square&logo=css3&logoColor=03dac6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=flat-square&logo=javascript&logoColor=03dac6)
+![React](https://img.shields.io/badge/-React-121212?style=flat-square&logo=react&logoColor=03dac6)
+
+**Backend:**  
+![Python](https://img.shields.io/badge/-Python-121212?style=flat-square&logo=python&logoColor=03dac6)
+![Node.js](https://img.shields.io/badge/-Node.js-121212?style=flat-square&logo=node.js&logoColor=03dac6)
+![Django](https://img.shields.io/badge/-Django-121212?style=flat-square&logo=django&logoColor=03dac6)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-121212?style=flat-square&logo=mysql&logoColor=03dac6)
+![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=flat-square&logo=mongodb&logoColor=03dac6)
+
+**DevOps:**  
+![Git](https://img.shields.io/badge/-Git-121212?style=flat-square&logo=git&logoColor=03dac6)
+![Docker](https://img.shields.io/badge/-Docker-121212?style=flat-square&logo=docker&logoColor=03dac6)
+![AWS](https://img.shields.io/badge/-AWS-121212?style=flat-square&logo=amazon-aws&logoColor=03dac6)
+</div>
+
+<!---ABOT-DK/ABOT-DK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
